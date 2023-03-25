@@ -4,11 +4,6 @@ import { StyleSheet, Text, View } from "react-native";
 import { createStackNavigator } from "@react-navigation/stack";
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
 import { Entypo, AntDesign, Ionicons, MaterialCommunityIcons, FontAwesome, Feather } from "@expo/vector-icons";
-// import { } from "@expo/vector-icons";
-// import { } from "@expo/vector-icons";
-// import { } from "@expo/vector-icons";
-// import {  } from "@expo/vector-icons";
-// import {  } from "@expo/vector-icons";
 
 import Profile from "./src/screens/Profile";
 import Settings from "./src/screens/Settings";
